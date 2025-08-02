@@ -2,6 +2,7 @@
 
 This project explores and models Netflix stock price data using linear regression. It focuses on predicting the Open and Close prices based on date-derived features such as year, month, day,volume and day of the week.
 
+
 🔍 Exploratory Data Analysis
 
    Checked for null values and data types
@@ -9,6 +10,7 @@ This project explores and models Netflix stock price data using linear regressio
    Extracted date-based features
 
    Visualized Open vs. Close prices over time using Matplotlib
+   
 
 🧠 Model
 
@@ -21,6 +23,7 @@ This project explores and models Netflix stock price data using linear regressio
   Scaler: MinMaxScaler for input feature normalization
 
   Data Split: 80% training, 20% testing
+  
 
 📊 Performance Metrics
 
@@ -31,6 +34,7 @@ This project explores and models Netflix stock price data using linear regressio
   Mean Squared Error (MSE)
 
   R² Score
+  
 
 🚀 Future Improvements
 
